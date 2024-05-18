@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelectionMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/VanDamme/VanDammeVsSchwarz.unity
+    guid: fb9d8ddfab4d45143825b0e9dd54bde7
+  - enabled: 1
+    path: Assets/Scenes/VanDamme/VanDammeVsStallone.unity
+    guid: f6a70b7cfb584fa40a21cb0a44fe14bc
+  - enabled: 1
+    path: Assets/Scenes/VanDamme/VanDammeVsChan.unity
+    guid: 8e59300fd99fc5347bb8fa78bc7c4b88
+  - enabled: 1
+    path: Assets/Scenes/VanDamme/VanDammeVsDolf.unity
+    guid: 11a59211ab2a8a745ae16f1ec20a34e1
+  - enabled: 1
+    path: Assets/Scenes/VanDamme/VanDammeVsSeagal.unity
+    guid: 53ad91341ff9fc44abf62da38d82e4f3
+  - enabled: 1
+    path: Assets/Scenes/Shwarz/SchwarzVsVanDamme.unity
+    guid: 71d0fea121040f342b6e96720411cbeb
+  - enabled: 1
+    path: Assets/Scenes/Shwarz/SchwarzVsStallone.unity
+    guid: 2f270bf3c2c202a4694f7ab58d657c74
+  - enabled: 1
+    path: Assets/Scenes/Shwarz/SchwarzVsChan.unity
+    guid: 5361bb0e605698b45b638fb088229bf0
+  - enabled: 1
+    path: Assets/Scenes/Shwarz/SchwarzVsDolf.unity
+    guid: ffffe3ad2f45c864ab323d89402eb8f6
+  - enabled: 1
+    path: Assets/Scenes/Shwarz/SchwarzVsSeagal.unity
+    guid: 99befb64c3740e641936bc751d20ea3f
+  - enabled: 1
+    path: Assets/Scenes/Stallone/StalloneVsVanDamme.unity
+    guid: e143c25eb483d964bb5d9484aa0c84ca
+  - enabled: 1
+    path: Assets/Scenes/Stallone/StalloneVsSchwarz.unity
+    guid: aec5c99dba697874bb0cab5c7cae5c5a
+  - enabled: 1
+    path: Assets/Scenes/Stallone/StalloneVsChan.unity
+    guid: a3e3ff54731d4eb43a874933b6fba785
+  - enabled: 1
+    path: Assets/Scenes/Stallone/StalloneVsDolf.unity
+    guid: 55cf22feb6ed70b43a925bbfdf4e66a5
+  - enabled: 1
+    path: Assets/Scenes/Stallone/StalloneVsSeagal.unity
+    guid: f3bc501de728abb4496f87e5248512ef
+  - enabled: 1
+    path: Assets/Scenes/JackyChan/ChanVsVanDamme.unity
+    guid: f06a1d354c1681f44a918b222b287a28
+  - enabled: 1
+    path: Assets/Scenes/JackyChan/ChanVsSchwarz.unity
+    guid: 2f1716787b113c54085dd8c075852d08
+  - enabled: 1
+    path: Assets/Scenes/JackyChan/ChanVsStallone.unity
+    guid: a4d66e2ae9a140645ae712958e4b9e26
+  - enabled: 1
+    path: Assets/Scenes/JackyChan/ChanVsDolf.unity
+    guid: 736efbeb1e957fe4a81330406f4048ed
+  - enabled: 1
+    path: Assets/Scenes/JackyChan/ChanVsSeagal.unity
+    guid: c9794f21a4d057f4e973541397b878b3
+  - enabled: 1
+    path: Assets/Scenes/Dolf/DolfVsVanDamme.unity
+    guid: 8dd20c036817ea04d991a775122c75aa
+  - enabled: 1
+    path: Assets/Scenes/Dolf/DolfVsSchwarz.unity
+    guid: 39d7db4e4ca1cdb46be815388f47f5e9
+  - enabled: 1
+    path: Assets/Scenes/Dolf/DolfVsStallone.unity
+    guid: dab9a50d1303a934081ab904fbbb3241
+  - enabled: 1
+    path: Assets/Scenes/Dolf/DolfVsChan.unity
+    guid: 7930402f7e0471249bc6e9363e2e853d
+  - enabled: 1
+    path: Assets/Scenes/Dolf/DolfVsSeagal.unity
+    guid: bb640068c5d08384bb7ece49dd4da1b5
+  - enabled: 1
+    path: Assets/Scenes/Seagal/SeagalVsVanDamme.unity
+    guid: 397a59941d21cd44aa45191d9ff5388c
+  - enabled: 1
+    path: Assets/Scenes/Seagal/SeagalVsSchwarz.unity
+    guid: 718d309d540f5c84cb8e0d4aaac0e2e2
+  - enabled: 1
+    path: Assets/Scenes/Seagal/SeagalVsStallone.unity
+    guid: ea2b2f4709d82df4eac7aed6f350debc
+  - enabled: 1
+    path: Assets/Scenes/Seagal/SeagalVsChan.unity
+    guid: eec002952e732084b891ff2e0430ccf3
+  - enabled: 1
+    path: Assets/Scenes/Seagal/SeagalVsDolf.unity
+    guid: 8a2a77119f5cba242addff57ca6dd6a5
+  m_configObjects: {}
